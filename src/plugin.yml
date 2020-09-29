@@ -1,0 +1,9 @@
+main: smp.picnic.spigotplugintemplate.SpigotPlugin
+name: HalloweenPicnic
+version: 1.0.0.290920
+author: David
+api-version: 1.16
+
+
+commands:
+  
